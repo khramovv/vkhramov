@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Earth">
+        <item>Skateboarding</item>
+        <item>Longboarding</item>
+        <item>Mountain Boarding</item>
+        <item>Sandboarding</item>
+        <item>BMX</item>
+        <item>Motocross</item>
+        <item>FMX</item>
+        <item>Mountain Biking</item>
+        <item>Caving</item>
+        <item>Slacklining</item>
+        <item>Absailing</item>
+        <item>Rock Climbing</item>
+        <item>Free Climbing</item>
+        <item>Bouldering</item>
+        <item>Mountaineering</item>
+        <item>Parkour</item>
+        <item>Sand kiting</item>
+    </string-array>
+    <string-array name="Water">
+        <item>Surfing</item>
+        <item>Long/short</item>
+        <item>Bodyboarding</item>
+        <item>Waterskiing</item>
+        <item>Wakeboarding</item>
+        <item>Kitesurfing</item>
+        <item>Windsurfing</item>
+        <item>Cave diving</item>
+        <item>Flowboarding</item>
+        <item>Paddlesurfing / Stand up paddle</item>
+        <item>Kayaking</item>
+        <item>Cliff Jumping</item>
+        <item>Coasteering</item>
+        <item>Scuba Diving</item>
+    </string-array>
+    <string-array name="Snow">
+        <item>Snowboarding</item>
+        <item>Skiing</item>
+        <item>Ice Climbing</item>
+        <item>Snowmobiling</item>
+        <item>Snow Kiting</item>
+    </string-array>
+    <string-array name="Air">
+        <item>Base Jumping</item>
+        <item>Skydiving</item>
+        <item>Wing Suiting</item>
+        <item>Bungee Jumping</item>
+        <item>High-lining</item>
+        <item>Hang Gliding</item>
+        <item>Paragliding</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Extreme</string>
+    <string name="action_settings">Settings</string>
+    <string name="photo_gallery">Photo Gallery</string>
+    <string name="video_gallery">Video Gallery</string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+    <string name="snow">Snow</string>
+    <string name="air">Air</string>
+    <string name="water">Water</string>
+    <string name="earth">Earth</string>
+    <string name="description">Description:</string>
+    <string name="star">Star:</string>
+    <string name="search_sport">Search sport … </string>
+    <string name="title_activity_single_kind_of_sport">Selected Sport</string>
+    <string name="title_activity_list_of_sports">List Of Sports</string>
+    <string name="title_activity_sport_details">Sport Details</string>
+    <string name="title_activity_photo_gallery">Photo Gallery</string>
+
+</resources>
